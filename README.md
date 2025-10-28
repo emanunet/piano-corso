@@ -21,11 +21,6 @@ Sito statico pronto per pubblicazione su **GitHub Pages** o **Netlify**.
 4. Salva. Dopo pochi minuti il sito sarà disponibile a un URL del tipo:
    `https://TUO-UTENTE.github.io/piano-corso/`
 
-### Opzione B · Netlify
-1. Vai su https://app.netlify.com/ e **New site from Git** (oppure drag&drop la cartella).
-2. Build command: *(vuoto)* – Publish directory: **/**
-3. Deploy. Avrai un URL del tipo `https://nome-scelto.netlify.app`.
-
 > **Nota su MIDI in browser:** la riproduzione dei `.mid` può non essere supportata nativamente. I file sono forniti per **download** e uso in DAW. Il sito offre **cache offline** dei file via Service Worker.
 
 ## Personalizzazione
